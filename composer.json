@@ -1,0 +1,21 @@
+{
+    "name": "svil1502/sring-helper-example",
+    "description": "example for work",
+    "type": "library",
+    "require": {
+        "php": "^7.0"
+    },
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Svetlana Ilina",
+            "email": "developersvil@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "svil\\sring\\": "src/"
+        }
+    }
+}
