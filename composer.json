@@ -9,10 +9,10 @@
             "email": "developersvil@gmail.com"
         }
     ],
+    "minimum-stability": "stable",
     "autoload": {
         "psr-4": {
             "svil\\sring\\": "src/"
         }
-    },
-    "minimum-stability": "dev"
+    }
 }
